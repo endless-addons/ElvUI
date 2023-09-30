@@ -5,6 +5,8 @@
 ## Notes: Options for ElvUI.
 ## RequiredDeps: ElvUI
 ## LoadOnDemand: 1
+## X-Endless-Hosted: true
+## X-Endless-Version: 6.9
 
 Libraries\Load_Libraries.xml
 Locales\Load_locales.xml
